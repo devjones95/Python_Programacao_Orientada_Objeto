@@ -1,4 +1,4 @@
-Conceitos básicos da Programação Orientada a Objetos utilizando a linguagem Python.
+Conceitos básicos da Programação Orientada a Objetos utilizando a linguagem Python.<br>
 Alguns conceitos aprendidos e anexados nesse repositório:
 <ul>
   <li>Introdução à POO</li>
